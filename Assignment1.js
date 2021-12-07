@@ -9,4 +9,4 @@ console.log(multiply(7,8,add));
 
 //Arrow Function question 2
 let result=(firstName,lastName)=>firstName.charAt(0)+lastName.charAt(0);
-console.log("Result of arrow function is "+result("Sivani","Tumuluri"));
+console.log("Result of arrow function is "+result("Roger","Waters"));
